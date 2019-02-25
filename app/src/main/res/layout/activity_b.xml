@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_blue"
+    android:padding="8dip"
+    >
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/activity_b_label"
+        android:gravity="center_horizontal"
+        android:textSize="@dimen/font_large"
+        android:textColor="@color/light_green"
+        android:paddingBottom="16dip"
+        />
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            >
+
+        <TextView
+            android:id="@+id/btextview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activityB_text"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+
+            android:layout_centerHorizontal="false"
+            android:textSize="25sp"
+            android:paddingLeft="10dp"
+            />
+
+        <Button
+                android:id="@+id/btn_finish_b"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textColor="#fff"
+                android:background="#000000"
+                android:text="@string/btn_finish_b_label"
+                android:layout_below="@+id/btextview"
+                android:onClick="finishActivityB"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="150dp"
+                />
+
+
+
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>
+

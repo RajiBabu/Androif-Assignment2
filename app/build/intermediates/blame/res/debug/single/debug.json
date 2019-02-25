@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_a.xml.flat",
+        "source": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sjsu.png.flat",
+        "source": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\src\\main\\res\\drawable-ldpi\\sjsu.png"
+    },
+    {
+        "merged": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dialog.xml.flat",
+        "source": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_b.xml.flat",
+        "source": "C:\\Users\\Raji\\AndroidStudioProjects\\Assignment-2\\app\\src\\main\\res\\layout\\activity_b.xml"
+    }
+]

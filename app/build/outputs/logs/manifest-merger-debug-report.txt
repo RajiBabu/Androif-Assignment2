@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:1-41:12
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:1-41:12
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:1-41:12
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:1-41:12
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:1-41:12
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:1-41:12
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:1-41:12
+	package
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:18:7-46
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:20:7-32
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:19:7-30
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:22:5-47
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:22:5-47
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:22:5-47
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:22:5-47
+INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:22:5-47
+	android:targetSdkVersion
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:22:15-44
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:22:5-47
+		INJECTED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:23:5-40:19
+	android:label
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:23:18-50
+	android:icon
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:24:18-47
+activity#com.example.android.assignment.ActivityA
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:launchMode
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:26:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.android.assignment.ActivityB
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:34:9-77
+	android:name
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:34:19-74
+activity#com.example.android.assignment.DialogActivity
+ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:36:9-38:20
+	android:theme
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:37:19-62
+	android:name
+		ADDED from C:\Users\Raji\AndroidStudioProjects\Assignment-2\app\src\main\AndroidManifest.xml:36:19-79
